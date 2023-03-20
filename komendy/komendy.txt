@@ -1,0 +1,23 @@
+grzes@DESKTOP-NPFMN2G MINGW64 ~/OneDrive/Pulpit/modul-3 narzedzia dev/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+C:\Users\grzes\OneDrive\Pulpit\modul-3 narzedzia dev\learning-git-2\index.html
+   3:3   error  <head> element must have <title> as content                              element-required-content
+   4:25  error  Expected omitted end tag <meta> instead of self-closing element <meta/>  void-style
+   7:21  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
+  10:67  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
+  11:43  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
+  12:73  error  Expected omitted end tag <meta> instead of self-closing element <meta/>  void-style
+  19:1   error  Trailing whitespace                                                      no-trailing-whitespace
+  80:1   error  Trailing whitespace                                                      no-trailing-whitespace
+  82:4   error  Mismatched close-tag, expected '</body>' but found '</p>'                close-order
+  83:3   error  Mismatched close-tag, expected '</html>' but found '</body>'             close-order
+  84:2   error  Unexpected close-tag, expected opening tag                               close-order
+
+✖ 11 problems (11 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/element-required-content.html
+  https://html-validate.org/rules/void-style.html
+  https://html-validate.org/rules/no-trailing-whitespace.html
+  https://html-validate.org/rules/close-order.html
