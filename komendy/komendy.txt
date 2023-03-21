@@ -1,23 +1,75 @@
-grzes@DESKTOP-NPFMN2G MINGW64 ~/OneDrive/Pulpit/modul-3 narzedzia dev/learning-git-2 (master)
+grzes@DESKTOP-NPFMN2G MINGW64 ~/OneDrive/Pulpit/nauka-gita(wyslane 3) (master)
 $ npm exec html-validate index.html
 
-C:\Users\grzes\OneDrive\Pulpit\modul-3 narzedzia dev\learning-git-2\index.html
-   3:3   error  <head> element must have <title> as content                              element-required-content
+C:\Users\grzes\OneDrive\Pulpit\nauka-gita(wyslane 3)\index.html
    4:25  error  Expected omitted end tag <meta> instead of self-closing element <meta/>  void-style
    7:21  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
   10:67  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
   11:43  error  Expected omitted end tag <link> instead of self-closing element <link/>  void-style
   12:73  error  Expected omitted end tag <meta> instead of self-closing element <meta/>  void-style
-  19:1   error  Trailing whitespace                                                      no-trailing-whitespace
-  80:1   error  Trailing whitespace                                                      no-trailing-whitespace
-  82:4   error  Mismatched close-tag, expected '</body>' but found '</p>'                close-order
-  83:3   error  Mismatched close-tag, expected '</html>' but found '</body>'             close-order
-  84:2   error  Unexpected close-tag, expected opening tag                               close-order
+  22:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  23:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  24:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  25:58  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  26:63  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  27:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  28:62  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  29:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  30:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  31:63  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  32:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  33:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  34:54  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  35:57  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  36:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  37:49  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  38:57  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  39:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  40:56  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  41:50  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  42:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  43:55  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  44:65  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  45:21  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  46:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  47:60  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  48:55  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  49:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  50:52  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  51:60  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  52:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  53:52  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  54:60  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  55:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  56:51  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  57:60  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  59:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  60:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  61:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  62:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  63:58  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  64:63  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  65:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  66:56  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  67:56  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  68:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  69:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  70:57  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  71:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  72:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  73:55  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  74:55  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  75:66  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  76:8   error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  77:12  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  78:12  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  79:34  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  80:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  81:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  82:53  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
+  83:59  error  Expected omitted end tag <br> instead of self-closing element <br/>      void-style
 
-✖ 11 problems (11 errors, 0 warnings)
+✖ 66 problems (66 errors, 0 warnings)
 
 More information:
-  https://html-validate.org/rules/element-required-content.html
   https://html-validate.org/rules/void-style.html
-  https://html-validate.org/rules/no-trailing-whitespace.html
-  https://html-validate.org/rules/close-order.html
